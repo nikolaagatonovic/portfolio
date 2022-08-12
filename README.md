@@ -1,3 +1,11 @@
+## Zadatak
+- inicijalizovati next js projekat
+- napraviti git repo za projekat
+- pushovati na github projekat
+- napraviti vercel account
+- povezati github repo projekta sa vercel account-om
+- svaki push na github radi redeploy site-a na vercel-u
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
